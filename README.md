@@ -150,8 +150,5 @@ It combines:
 ## 👨‍💻 Author
 
 **Mrinal**  
-B.Tech ECE | Data Analytics | GenAI Enthusiast  
+B.Tech ECE | Data Analytics
 
----
-
-## ⭐ If you found this useful, give it a star!
